@@ -1,0 +1,11 @@
+.typesOfPizza{
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
+}
+.type{
+    text-align: center;
+    border: 2px solid black;
+}
